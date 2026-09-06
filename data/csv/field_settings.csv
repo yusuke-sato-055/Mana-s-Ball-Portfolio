@@ -1,0 +1,5 @@
+field_id,field_name,layout_id,background_path,bgm_path,description,enabled
+standard,標準競技場,standard_13x5,assets/images/backgrounds/battle_field.png,,従来の標準フィールド,true
+standard_alt,標準競技場・別景,standard_13x5,assets/images/backgrounds/battle_background.png,,同じレイアウトを使う外観差分,true
+small,小規模訓練場,small_11x5,assets/images/backgrounds/battle_field.png,,2対2向けの小規模フィールド,true
+large,大規模訓練場,large_15x7,assets/images/backgrounds/battle_field.png,,5対5向けの大規模フィールド,true

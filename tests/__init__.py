@@ -1,0 +1,1 @@
+"""Mana's Ball tests."""

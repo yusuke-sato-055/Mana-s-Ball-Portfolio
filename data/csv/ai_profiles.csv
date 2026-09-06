@@ -1,0 +1,8 @@
+ai_profile_id,ai_profile_name,description,attack_priority,pass_priority,score_priority,heal_priority,support_priority,steal_priority,ball_keep_priority,loose_ball_priority,ally_guard_priority,own_goal_defense_priority,mp_usage,risk_tolerance,enabled,notes
+standard,標準型,すべての行動を標準的に評価する,5,5,5,5,5,5,5,5,5,5,5,5,true,
+attack,攻撃型,敵への攻撃を優先する,9,3,6,2,2,7,6,6,2,3,8,8,true,
+pass,パス型,パスと味方連携を優先する,3,9,6,3,6,3,2,5,7,4,5,3,true,
+score,得点型,ボールを保持してゴールを狙う,5,3,10,2,2,4,9,7,2,2,7,8,true,
+healer,回復型,味方の回復と支援を優先する,2,5,2,10,8,2,2,3,7,6,8,2,true,
+steal,奪取型,敵保持者とルーズボールを優先する,6,3,4,2,2,10,3,9,3,5,7,7,true,
+defense,守備型,味方と自軍ゴールの守備を優先する,4,5,2,5,6,5,3,5,9,10,4,2,true,

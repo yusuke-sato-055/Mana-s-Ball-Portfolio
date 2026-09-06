@@ -1,0 +1,12 @@
+quest_id,quest_name,field_id,match_setting_id,enemy_group_id,clear_condition_id,failure_condition_id,reward_id,first_clear_reward_id,unlock_condition_id,recommended_level,recommended_cost,bgm_override_path,description,rule_type,required_hold_turns,initial_ball_holder,enabled
+training_3v3,通常訓練,standard,standard_3v3,training_3v3_group,win,,,,,1,0,,標準の3対3,1,,ally:1,true
+training_alt,別景訓練,standard_alt,standard_3v3,training_3v3_group,win,,,,,1,0,,同じレイアウトの外観差分,1,,ally:1,true
+training_2v2,小規模訓練,small,training_2v2_bench,training_2v2_group,win,,,,,1,0,,2対2と最大4人パーティーの動作確認,1,,ally:1,true
+training_1v1,一騎打ち,standard,duel_1v1,training_group,win,,,,,1,0,,1対1の動作確認,1,,ally:1,true
+training_1v3,少数訓練,standard,challenge_1v3,training_group,win,,,,,1,0,,1対3の動作確認,1,,ally:1,true
+training_4v4,大人数訓練,standard,large_4v4,training_large,win,,,,,1,0,,4対4の動作確認,1,,ally:1,true
+training_6v6,総力戦訓練,standard,large_6v6,training_large,win,,,,,1,0,,6対6の動作確認,1,,ally:1,true
+training_5v5,大規模訓練,large,training_5v5_bench,training_5v5_group,win,,,,,1,0,,5対5と最大7人パーティーの動作確認,1,,ally:1,true
+training_recapture,マナ奪還訓練,standard,standard_3v3,training_3v3_group,win,,,,,1,0,,敵からマナボールを奪還する訓練,2,,enemy:1,true
+training_ritual_3,儀式維持訓練・3ターン,standard,standard_3v3,training_3v3_group,win,,,,,1,0,,3ターンの儀式維持訓練,3,3,ally:1,true
+training_ritual_5,儀式維持訓練・5ターン,standard,standard_3v3,training_3v3_group,win,,,,,1,0,,5ターンの儀式維持訓練,3,5,ally:1,true

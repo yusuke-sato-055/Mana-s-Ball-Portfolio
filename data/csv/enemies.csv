@@ -1,0 +1,4 @@
+﻿enemy_id,enemy_type_id,name,image_id,max_hp,max_mana,power,magic,speed,technique,stamina,skill_slot_1,skill_slot_2,skill_slot_3,skill_slot_4,skill_slot_5,skill_slot_6,skill_slot_7,default_ai_profile_id,default_ai_level,enabled,notes
+training_power,physical_power,訓練用パワー兵,,32,6,9,3,4,5,8,push_strike,power_up,shield_guard,,,,,attack,5,true,敵グループ機構の確認用データ
+training_magic,magic_technique,訓練用魔導兵,,24,9,5,9,5,8,5,elemental_bolt,quick_pass,single_magic_cycle,,,,,score,5,true,敵グループ機構の確認用データ
+training_support,magic_stamina,訓練用支援兵,,28,8,5,8,5,7,8,heal,heal_hp,recover_mp,,,,,healer,5,true,敵グループ機構の確認用データ

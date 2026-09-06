@@ -1,0 +1,8 @@
+match_setting_id,match_setting_name,ally_field_count,enemy_field_count,ally_party_limit,enemy_party_limit,ally_cost_limit,enemy_cost_limit,score_to_win,max_turns,substitution_enabled,substitution_count_per_score,injury_enabled,injury_penalty_per_marker,injury_penalty_floor,bench_recovery_count,restart_rule,draw_rule,enabled
+standard_3v3,標準3対3,3,3,5,5,0,0,2,0,true,1,true,0.2,0.4,1,conceding_select,draw,true
+duel_1v1,1対1,1,1,3,3,0,0,2,0,true,1,true,0.2,0.4,1,conceding_select,draw,true
+challenge_1v3,1対3,1,3,3,3,0,0,2,0,true,1,true,0.2,0.4,1,conceding_select,draw,true
+large_4v4,4対4,4,4,6,6,0,0,2,0,true,1,true,0.2,0.4,1,conceding_select,draw,true
+large_6v6,6対6,6,6,6,6,0,0,2,0,false,1,true,0.2,0.4,1,conceding_select,draw,true
+training_2v2_bench,2対2ベンチ訓練,2,2,4,4,0,0,2,0,true,1,true,0.2,0.4,1,conceding_select,draw,true
+training_5v5_bench,5対5ベンチ訓練,5,5,7,7,0,0,2,0,true,1,true,0.2,0.4,1,conceding_select,draw,true
